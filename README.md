@@ -1,1 +1,1 @@
-Kaito Hub is a collection of advanced scripts for Roblox.
+                                           Kaito Hub is a collection of advanced scripts for Roblox.
