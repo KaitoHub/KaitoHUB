@@ -66,8 +66,6 @@ request(abcdef)
 
   if game.PlaceId == 286090429 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/anldn/x/main/scripts/arsentten.html"))();
-elseif game.PlaceId == 292439477 then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/anldn/x/main/scripts/phanttten.html"))();
 elseif game.PlaceId == 6407649031 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/anldn/x/main/scripts/noscopetten.html"))();
 else
